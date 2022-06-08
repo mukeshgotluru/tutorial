@@ -1,2 +1,4 @@
- Good Morning 
-I am a Web Developer
+const add = (a,b) => {
+   return a+b;
+   };
+console.log(add(5,4));
